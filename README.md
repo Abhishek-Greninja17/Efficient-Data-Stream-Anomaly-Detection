@@ -25,7 +25,7 @@ EMA(t-1) = EMA from the previous time step t-1
 A Z-score based on the difference between the current value and the EMA. A high absolute Z-score indicates an anomaly
 
 ## Output
-# <img src="images/Screenshot 2024-11-29 200903.png" alt="out">
+# <img src="image/Screenshot.png" alt="out">
 
 ### Stream Anomaly Detection and Real-Time Plotting
 Simulate Real-Time Data Handling: By using a sliding window, it processes incoming data points one at a time and performs computations only when the window is full.
